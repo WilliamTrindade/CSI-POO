@@ -1,0 +1,11 @@
+Oque são classes?
+-Classes são arquivos de código .java que ao serem instanciados criam um objeto
+que passam a conter atributos e métodos providos da classe.
+
+Oque são Objetos?
+-Objetos são instanciados a partir de uma classe e são uma abstração de objetos
+do mundo real em um software, eles podem ter atríbutos e métodos.
+
+Oque é encapsulamento?
+-encapsulamento é não permitir o acesso direto aos atríbutos de um objeto utilizando
+os métodos get e set , assim deixando o código mais seguro e controlando o acesso.
