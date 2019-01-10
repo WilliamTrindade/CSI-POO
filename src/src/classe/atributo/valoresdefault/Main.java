@@ -1,4 +1,4 @@
-package classe.atributos.valoresdefault;
+package classe.atributo.valoresdefault;
 class Conta {
     int numero = 123;
     String titular = "Hoami";
