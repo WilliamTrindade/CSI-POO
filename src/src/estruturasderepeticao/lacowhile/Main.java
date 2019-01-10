@@ -1,7 +1,7 @@
 /*
  * Faz Loop
  */
-package repeticao.whileedowhile;
+package estruturasderepeticao.lacowhile;
 public class Main {
     public static void main(String[] args) {
         // verifica antes de rodar a primeira vez
