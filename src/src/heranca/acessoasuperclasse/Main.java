@@ -1,4 +1,4 @@
-package classe.heranca.acessoasuperclasse;
+package heranca.acessoasuperclasse;
 public class Main {
     public static void main(String[] args) {
         Gerente	gerente	= new Gerente();

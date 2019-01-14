@@ -1,4 +1,4 @@
-package classe.heranca.acessoasuperclasse;
+package heranca.acessoasuperclasse;
 public class Gerente extends Funcionario {
     private int	senha;
     private int	numeroDeFuncionariosGerenciados;

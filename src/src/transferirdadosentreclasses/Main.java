@@ -1,4 +1,4 @@
-package classe.transferirdados;
+package transferirdadosentreclasses;
 class Conta {
     int numero;
     String titular;
@@ -17,7 +17,7 @@ class Conta {
         this.saldo+=quantia;
     }
     // tranfere valores entre classes
-    boolean tranfere(Conta destino, double valor) {
+    boolean transfere(Conta destino, double valor) {
         boolean retirou = this.saca(valor);
         if(retirou == true){
             destino.deposita(valor);
@@ -29,6 +29,10 @@ class Conta {
 }
 public class Main {
     public static void main(String[] args) {
-        
+       Conta c = new Conta();
+       c.deposita(200);
+       Conta c2 = new Conta();
+       c.transfere(c2, 10);
+       System.out.println(c2.saldo);
     }
 }

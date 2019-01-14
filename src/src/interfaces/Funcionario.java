@@ -1,5 +1,6 @@
-package heranca.acessoasuperclasse;
+package interfaces;
 public class Funcionario {
+    
     protected String nome;
     protected String cpf;
     protected double salario; 
