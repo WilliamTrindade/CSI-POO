@@ -1,4 +1,4 @@
-package classe.metodoeatributostatic;
+package metodoeatributoestatico;
 public class Conta {
     
     // não é preciso instanciar um objeto para utilizar

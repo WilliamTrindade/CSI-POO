@@ -1,4 +1,4 @@
-package classe.construtor;
+package construtor;
 public class Conta {
      
     private int numero;

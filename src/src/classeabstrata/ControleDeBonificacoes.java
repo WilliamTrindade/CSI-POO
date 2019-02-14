@@ -1,4 +1,4 @@
-package classe.classeabstrata;
+package classeabstrata;
 public class ControleDeBonificacoes {
     protected double totalDeBonificacoes = 0;
     

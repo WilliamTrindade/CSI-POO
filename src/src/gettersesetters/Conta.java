@@ -1,4 +1,4 @@
-package classe.gettersesetters;
+package gettersesetters;
 public class Conta {
     
     private int numero;

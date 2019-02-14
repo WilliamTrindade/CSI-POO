@@ -1,9 +1,9 @@
 /*
-O equals recebe um Object como	argumento e deve verificar se ele mesmo	é igual
-ao Object recebido para	retornar um boolean.
-Se você não reescrever esse método, o comportamento herdado é fazer um == com o
-objeto recebido	como argumento.
-*/
+ * O equals recebe um Object como argumento e deve verificar se ele mesmo é igual
+ * ao Object recebido para retornar um boolean.
+ * Se você não reescrever esse método, o comportamento herdado é fazer um == com o
+ * objeto recebido como argumento.
+ */
 package java.lang.object.equals;
 abstract class Conta {
     private int numero;

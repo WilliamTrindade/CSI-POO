@@ -1,4 +1,4 @@
-package classe.metodoeatributostatic;
+package metodoeatributoestatico;
 public class Main {
     public static void main(String[] args) {
         Conta c = new Conta(100, "wil");

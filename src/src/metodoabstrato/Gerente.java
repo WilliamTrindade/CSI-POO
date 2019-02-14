@@ -1,4 +1,4 @@
-package classe.metodoabstrato;
+package metodoabstrato;
 public class Gerente extends Funcionario {
     
     @Override

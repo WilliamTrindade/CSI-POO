@@ -1,4 +1,4 @@
-package classe.metodoabstrato;
+package metodoabstrato;
 /*
 classe abstrata não pode ser instanciada
 */
